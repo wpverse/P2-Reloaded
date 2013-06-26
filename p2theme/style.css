@@ -1,0 +1,582 @@
+/*
+Theme Name: P2 Reloaded
+Description: Based on GTD by Templatic themes and P2 by Automattic. When activated, the following widgets will be automatically added to the sidebar: tag clouds, the calendar. We also recommend manually download/installing the Login with Ajax plugin.
+Author: WPVerse
+Author URI: http://www.p2reloaded.com
+Version: 3.1.1
+*/
+
+/* Reset CSS */
+@import url(css/reset.css);
+
+/* Typography */
+p, li, h1, h2 {
+	color: #333;
+	font: 13px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+}
+
+a {
+	color: #3478e3;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #d54e21;
+	text-decoration: underline;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+small {
+	font-size: 12px;
+}
+
+#posts article .post-content p, .comment-content p {
+	margin-bottom: 10px;
+}
+
+/* Forms */
+label {
+	cursor: pointer;
+	font: bold 12px Arial, Helvetica, sans-serif;
+	padding-right: 10px;
+}
+
+input[type=text], textarea {
+	background: #fff;
+	border: 1px solid #ccc;
+	color: #666;
+	font: 13px Arial, Helvetica, sans-serif;
+	padding: 5px;
+}
+
+input[type=text][disabled], textarea[disabled] {
+	background: #fcfcfc;
+}
+
+input[type=submit], input[type=button] {
+	background: #f2f2f2 url(images/button-bg.png) top repeat-x;
+	border: 1px solid #ccc;
+	border-radius: 12px;
+	color: #333;
+	cursor: pointer;
+	font-weight: bold;
+	height: 28px;
+	padding: 0 10px;
+	-moz-border-radius: 12px;
+	-ms-border-radius: 12px;
+	-o-border-radius: 12px;
+	-webkit-border-radius: 12px;
+}
+
+input[type=submit]:active, input[type=button]:active {
+	background-position: bottom;
+	border-color: #aaa;
+}
+
+input[type=submit][disabled], input[type=submit][disabled]:active {
+	background: #f2f2f2;
+	border: 1px solid #ccc;
+	color: #999;
+}
+
+/* Clear */
+.clear, #pages-nav ul:after {
+	display: block;
+	clear: both;
+	content: " ";
+	height: 0;
+}
+
+/* Layout */
+body {
+	background: #e5e5e5;
+	background-position: top;
+	background-repeat: repeat-x;
+}
+
+#wrap {
+	margin: auto;
+	width: 980px;
+}
+
+/* Header */
+#wrap > header {
+	height: 94px;
+	padding-top: 5px;
+}
+
+#site-title {
+	float: left;
+}
+
+h1, h2, h4 {
+	font-size: 30px;
+}
+
+h1 a, h1 a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+h2 {
+	font-size: 12px;
+	margin-top: -5px;
+}
+
+#user-nav {
+	float: right;
+	padding-top: 5px;
+}
+
+#user-nav p {
+	color: #444;
+	font-size: 11px;
+}
+
+#pages-nav {
+	padding-top: 5px;
+}
+
+#pages-nav li {
+	float: left;
+	padding-right: 5px;
+}
+
+#pages-nav li a {
+	border-style: solid;
+	border-width: 1px;
+	border-bottom-color: #c0c0c0;
+	color: #fff;
+	display: block;
+	font-weight: bold;
+	line-height: normal;
+	padding: 7px 10px;
+}
+
+#pages-nav li a:hover {
+	color: #333;
+	background: #e5e5e5;
+	border-color: #c0c0c0;
+	border-bottom-color: #e5e5e5;
+	text-decoration: none;
+}
+
+/* Main Content */
+#content {
+	padding-top: 25px;
+}
+
+/* Posts */
+#posts {
+	background: #fff;
+	border: 1px solid #dadada;
+	box-shadow: 2px 2px 2px #ccc;
+	float: left;
+	width: 718px;
+	-moz-box-shadow: 2px 2px 2px #ccc;
+	-ms-box-shadow: 2px 2px 2px #ccc;
+	-webkit-box-shadow: 2px 2px 2px #ccc;
+	-o-box-shadow: 2px 2px 2px #ccc;
+}
+
+#posting-form-container {
+	padding: 10px;
+}
+
+#posting-form-container .avatar  {
+	padding-top: 30px;
+	width: 52px;
+}
+
+#posting-form-container .avatar img {
+	height: 48px;
+	width: 48px;
+}
+
+#posting-form-fields {
+	float: left;
+	padding-left: 10px;
+	width: 625px;
+}
+
+#posting-form-fields p {
+	line-height: 2em;
+}
+
+#posting-form-fields #main-label {
+	color: #444;
+	font-size: 19px;
+	font-weight: normal;
+}
+
+#post-it {
+	font-size: 14px;
+}
+
+#p2-attachments {
+	padding-left: 25px;
+}
+
+#p2-attachments li {
+	font-size: 11px;
+	list-style-type: square;
+	padding-left: 5px;
+}
+
+.p2-submit {
+	padding-top: 10px;
+}
+
+#post-it {
+	padding: 0 20px;
+}
+
+.indicator {
+	color: #666;
+	display: none;
+	font-size: 11px;
+	padding-top: 10px;
+}
+
+#posting-indicator img {
+	height: 12px;
+	padding-right: 5px;
+	width: 12px;
+}
+
+#posts-header, #posts article {
+	margin: 20px;
+}
+
+#posts-header h1 {
+	color: #555;
+	float: left;
+	font-size: 26px;
+}
+
+#posts-header p {
+	float: right;
+	padding-top: 15px;
+}
+
+#comment-form {
+	display: none;
+}
+
+#posts article {
+	padding-bottom: 10px;
+}
+
+#posts article hgroup {
+	float: left;
+	padding: 0 0 10px 10px;
+	width: 625px;
+}
+
+#posts article hgroup h2 {
+	font-size: 26px;
+}
+
+#posts article hgroup .meta, #posts article .post-tags {
+	color: #666;
+	font: 11px Arial, Helvetica, sans-serif;
+}
+
+#posts article .meta {
+	float: left;
+}
+
+#posts article .post-actions {
+	color: #ccc;
+	float: right;
+	visibility: hidden;
+}
+
+#posts article:hover .post-actions, #posts.single .post-actions {
+	visibility: visible;
+}
+
+#posts article .post-actions a {
+	font-size: 11px;
+	color: #ccc;
+}
+
+#posts article .post-content {
+	border-bottom: 1px solid #ccc;
+	padding: 10px 0;
+}
+
+#posts article .post-content p {
+	line-height: 1.5em;
+}
+
+#posts article .post-content img.alignleft {
+	float: left;
+	margin: 0 1em 1em 0;
+}
+
+#posts article .post-content img.aligncenter {
+	display: block;
+	margin: auto;
+}
+
+#posts article .post-content img.alignright {
+	float: right;
+	margin: 0 0 1em 1em;
+}
+
+#posts article .post-content ul, #posts article .post-content ol {
+	padding-left: 20px;
+}
+
+#posts article .post-content ul li {
+	list-style-type: disc;
+}
+
+#posts article .post-content ol li {
+	list-style-type: decimal;
+}
+
+#posts article .post-content blockquote {
+	background: #eee;
+	margin-top: 20px;
+	padding: 10px;
+}
+
+.post-attachments {
+	padding: 10px 0;
+}
+
+.post-attachments p {
+	border-bottom: 1px solid #ccc;
+	width: 25%;
+}
+
+.post-attachments ul {
+	padding-top: 5px;
+}
+
+.post-attachments ul li {
+	list-style-type: none !important;
+	list-style-image: url(images/attachment.png);
+	margin-left: 10px;
+}
+
+.pagination {
+	padding: 10px 20px;
+}
+
+/* Comments */
+.post-comments {
+	padding: 10px 0 0 10%;
+}
+
+ul.comments > li {
+	border-top: 1px solid #ccc;
+}
+
+ul.comments > li:first-child {
+	border: none;
+}
+
+ul.comments li {
+	margin: 10px 0;
+	padding: 5px; 0;
+	position: relative;
+}
+
+ul.comments .children {
+	padding: 0 0 10px 5%;
+}
+
+.comment .comment-info {
+	float: left;
+	padding-left: 10px;
+}
+
+.comment-date {
+	color: #666;
+	font-size: 11px;
+}
+
+.comment-meta {
+	color: #ccc;
+	font-size: 11px;
+	position: absolute;
+	right: 0px;
+	top: 25px;
+	visibility: hidden;
+}
+
+li.comment:hover .comment-meta {
+	visibility: visible;
+}
+
+.comment-meta a {
+	color: #ccc;
+}
+
+.comment-meta a:hover {
+	color: #d54e21;
+}
+
+.comment-content {
+	padding-top: 10px;
+}
+
+/* ToDo Comments */
+.todo-comment-checked .comment-content label, .todo-comment-unchecked .comment-content label {
+	font-weight: normal;
+}
+
+.todo-comment-checked .comment-content label {
+	text-decoration: line-through;
+}
+
+.todo-comment-checked .comment-author, .todo-comment-unchecked .comment-author {
+	color: #aaa;
+	padding-top: 5px;
+}
+
+/*  Todo Mark Comments */
+.todo-checked .comment-content p, .todo-unchecked .comment-content p {
+	font-style: italic;
+}
+
+/* Comment response form */
+#respond {
+	background: #f1f1f1;
+	border-radius: 6px;
+	padding: 15px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	-webkit-border-radius: 6px;
+}
+
+ul.comments #respond {
+	margin: 10px 0 0 5%;
+}
+
+#respond h3 {
+	color: #777;
+	font: bold 16px Helvetica, Arial, sans-serif;
+}
+
+#respond h3 small {
+	font-weight: normal;
+	font-size: 11px;
+}
+
+#respond .logged-in-as {
+	color: #666;
+	font-size: 11px;
+}
+
+.comment-form-comment label {
+	display: none;
+}
+
+#comment {
+	height: 75px;
+	margin-top: 5px;
+	overflow: auto;
+	width: 98%;
+}
+
+/* Sidebar */
+#sidebar {
+	float: left;
+	padding: 20px 0 0 20px;
+	width: 240px;
+}
+
+#sidebar > ul > li {
+	padding-bottom: 20px;
+}
+
+#sidebar h2 {
+	color: #555;
+	font: 18px Arial, sans-serif;
+	padding-bottom: 10px;
+}
+
+#sidebar li, #sidebar p {
+	color: #888;
+}
+
+#sidebar li {
+	line-height: 2em;
+}
+
+/* Avatars */
+.avatar {
+	float: left;
+	width: 42px;
+}
+
+.avatar img {
+	border: 1px solid #c0c0c0;
+	display: block;
+	height: 36px;
+	padding: 2px;
+	width: 36px;
+}
+
+/* Keyboard Shortcuts Popup */
+#p2-the-keyboard-shortcuts {
+	background: rgba(0, 0, 0, 0.85);
+	border-radius: 25px;
+	display: none;
+	left: 0;
+	padding: 2.5% 5%;
+	position: fixed;
+	top: 0;
+	width: 40%;
+	-moz-border-radius: 25px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-webkit-border-radius: 25px;
+}
+
+#p2-the-keyboard-shortcuts dt, #p2-the-keyboard-shortcuts dd {
+	color: #ddd;
+	font: 22px Helvetica, Arial, sans-serif;
+	float: left;
+	padding: 5px;
+}
+
+#p2-the-keyboard-shortcuts dt {
+	clear: both;
+	color: #3478e3;
+	font-weight: bold;
+	padding-right: 10%;
+	text-align: right;
+	width: 10%;
+}
+
+/* Footer */
+footer {
+	padding: 20px 0;
+}
+
+footer p {
+	color: #777;
+}
+
+footer p a {
+	color: #555;
+}
+
+/* Global styles */
+article.new, li.new {
+	background-color: #f6f3d1;
+}

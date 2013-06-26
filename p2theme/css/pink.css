@@ -1,0 +1,33 @@
+/* Typography */
+a {
+	color: #d54e21;
+}
+
+a:hover {
+	color: #882807;
+}
+
+/* Layout */
+body {
+	background-image: url(../images/pinkbg.gif);
+}
+
+/* Header */
+header h2 {
+	color: #9a4e75;
+}
+
+#pages-nav a {
+	background: #96584b;
+	border-color: #96584b;
+}
+
+/* Posts */
+#posting-form-container {
+	background: #fcd7d9;
+	border-bottom: 1px solid #e1bfc1;
+}
+
+#posts article .post-actions a:hover {
+	color: #d54e21;
+}

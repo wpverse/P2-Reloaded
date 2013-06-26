@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: P2 Reloaded\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-16 06:50+0800\n"
+"PO-Revision-Date: 2011-07-16 06:52+0800\n"
+"Last-Translator: mok <imoz39@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_;_e\n"
+"X-Poedit-Basepath: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/.\n"
+"X-Poedit-SearchPath-0: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/.\n"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:24
+msgid "Top Navigation Menu"
+msgstr "Inizio menu di navigazione"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:31
+msgid "Right Sidebar"
+msgstr "diritto Sidebar"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:32
+msgid "The Right Sidebar"
+msgstr "diritto Sidebar"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:123
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:128
+msgid "Settings"
+msgstr "impostazioni"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:130
+msgid "Settings saved"
+msgstr "impostazioni salvate"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:134
+msgid "General Settings"
+msgstr "Impostazioni generali"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:138
+msgid "Display post titles"
+msgstr "Visualizzare i titoli dei post"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:143
+msgid "Allow logged in users to attach files to their posts"
+msgstr "Lasciare gli utenti registrati di allegare file al loro posto"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:148
+msgid "Allow users to add tags to their posts"
+msgstr "Consenti agli utenti di aggiungere tag ai loro posti"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:153
+msgid "Notify users of new comments and whenever they are tagged in a post"
+msgstr "Comunicare agli utenti i nuovi commenti e ogni volta che sono taggati in un post"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:158
+msgid "Allow anonymous users to post &ndash; Creates a draft post and then notifies administrators"
+msgstr "Consentire agli utenti anonimi di inviare &ndash; Creates a draft post and then notifies administrators"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:161
+msgid "Appearance"
+msgstr "Aspetto"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:164
+msgid "Color Scheme:"
+msgstr "Schema colori:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:166
+msgid "Blue"
+msgstr "blu"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:167
+msgid "Gray"
+msgstr "grigio"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:168
+msgid "Green"
+msgstr "verde"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:169
+msgid "Pink"
+msgstr "rosa"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:174
+msgid "Homepage:"
+msgstr "Homepage:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:176
+msgid "Normal"
+msgstr "normale"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:177
+msgid "Fullscreen To-Do List"
+msgstr "Fullscreen To-Do List"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:181
+msgid "ToDo's"
+msgstr "ToDo's"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:183
+msgid "Users allowed to add ToDo items:"
+msgstr "Permetteva agli utenti di aggiungere elementi ToDo"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:190
+msgid "Users allowed to check/uncheck ToDo items:"
+msgstr "Permetteva agli utenti di selezionare / deselezionare elementi di attività:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:197
+msgid "Email Settings"
+msgstr "Impostazioni e-mail"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:199
+msgid "Email &quot;From&quot; Address:"
+msgstr "Da Indirizzo e-mail:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:202
+msgid "Email &quot;From&quot; Name:"
+msgstr "Da email Nome:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:205
+msgid "Private Blog"
+msgstr "Blog privato"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:207
+msgid "Make this blog private."
+msgstr "Rendere questo blog privato."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:209
+msgid "Display this message to users who are not logged in"
+msgstr "Visualizzare questo messaggio agli utenti che non è iscritto"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:212
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/attachments.php:74
+msgid "Failed to delete attachment."
+msgstr "Impossibile eliminare allegato"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:92
+msgid "Reply"
+msgstr "risposta"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:175
+msgid "Edit"
+msgstr "Modifica"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:254
+msgid "You are not allowed to edit comments."
+msgstr "Non sei autorizzato a modificare i commenti."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:428
+msgid "Failed to mark this item. Please try again."
+msgstr "Non è riuscito a segnare questo elemento. Si prega di riprovare."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:457
+msgid "Enter your comment."
+msgstr "Inserisci il tuo commento."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:471
+msgid "Invalid post ID."
+msgstr "Non valido messaggio ID."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:523
+msgid "Fill up the required fields (name and email)."
+msgstr "Riempi i campi obbligatori (nome e indirizzo email)."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:533
+msgid "Invalid email address."
+msgstr "Indirizzo email non valido."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:545
+msgid "Invalid Website URL."
+msgstr "Website URL non valido."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:666
+msgid "Failed to add comment."
+msgstr "Impossibile aggiungere commento."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:44
+msgid "You are not allowed to edit posts."
+msgstr "Non sei autorizzato a modificare i messaggi."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:108
+msgid "You are not allowed to post."
+msgstr "Non sei autorizzato a postare messaggi."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:245
+msgid "Failed to save new post."
+msgstr "Impossibile salvare il nuovo post."
+

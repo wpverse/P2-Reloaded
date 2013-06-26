@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: P2 Reloaded\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-16 06:47+0800\n"
+"PO-Revision-Date: 2011-07-16 06:49+0800\n"
+"Last-Translator: mok <imoz39@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/.\n"
+"X-Poedit-SearchPath-0: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/.\n"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:24
+msgid "Top Navigation Menu"
+msgstr "Най-навигационно меню"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:31
+msgid "Right Sidebar"
+msgstr "дясната странична лента"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:32
+msgid "The Right Sidebar"
+msgstr "Дясната странична лента"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:123
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:128
+msgid "Settings"
+msgstr "Настройки"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:130
+msgid "Settings saved"
+msgstr "Настройките са запазени"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:134
+msgid "General Settings"
+msgstr "Общи настройки"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:138
+msgid "Display post titles"
+msgstr "Покажи пост заглавия"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:143
+msgid "Allow logged in users to attach files to their posts"
+msgstr "Оставете регистрирани потребители да прикачите файлове към постовете си"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:148
+msgid "Allow users to add tags to their posts"
+msgstr "Позволете на потребителите да добавят тагове към постовете си"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:153
+msgid "Notify users of new comments and whenever they are tagged in a post"
+msgstr "Информира потребителите за нови коментари и когато те са маркирани в пост"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:158
+msgid "Allow anonymous users to post &ndash; Creates a draft post and then notifies administrators"
+msgstr "Оставете на анонимни потребители да публикувате &ndash; Създава проекта за мнение и след това уведомява администраторите"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:161
+msgid "Appearance"
+msgstr "вид"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:164
+msgid "Color Scheme:"
+msgstr "Цветова схема:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:166
+msgid "Blue"
+msgstr "син"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:167
+msgid "Gray"
+msgstr "сив"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:168
+msgid "Green"
+msgstr "зелен"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:169
+msgid "Pink"
+msgstr "розов"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:174
+msgid "Homepage:"
+msgstr "Homepage:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:176
+msgid "Normal"
+msgstr "нормален"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:177
+msgid "Fullscreen To-Do List"
+msgstr "Fullscreen To-Do List"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:181
+msgid "ToDo's"
+msgstr "ToDo's"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:183
+msgid "Users allowed to add ToDo items:"
+msgstr "Потребителите, имат право да добавят ToDo елементи:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:190
+msgid "Users allowed to check/uncheck ToDo items:"
+msgstr "Потребители, позволи да се провери / махнете отметката ToDo елементи:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:197
+msgid "Email Settings"
+msgstr "Email Настройки"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:199
+msgid "Email &quot;From&quot; Address:"
+msgstr "Email &quot;От&quot;Адрес"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:202
+msgid "Email &quot;From&quot; Name:"
+msgstr "Email &quot;От&quot; Име:"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:205
+msgid "Private Blog"
+msgstr "личен блог"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:207
+msgid "Make this blog private."
+msgstr "Уверете се, този блог частна."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:209
+msgid "Display this message to users who are not logged in"
+msgstr "Покажи това съобщение до потребители, които не са влезли в"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:212
+msgid "Save Changes"
+msgstr "Запазване на промените"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/attachments.php:74
+msgid "Failed to delete attachment."
+msgstr "Неуспех да изтриете прикачения файл."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:92
+msgid "Reply"
+msgstr "отговор"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:175
+msgid "Edit"
+msgstr "редактирам"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:254
+msgid "You are not allowed to edit comments."
+msgstr "Вие нямате право да редактирате коментари."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:428
+msgid "Failed to mark this item. Please try again."
+msgstr "Не можа да отбележи този елемент. Моля, опитайте отново."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:457
+msgid "Enter your comment."
+msgstr "Въведете вашия коментар."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:471
+msgid "Invalid post ID."
+msgstr "Невалиден идентификатор на публикуване."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:523
+msgid "Fill up the required fields (name and email)."
+msgstr "Попълнете задължителните полета (име и електронна поща)."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:533
+msgid "Invalid email address."
+msgstr "Невалиден имейл адрес."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:545
+msgid "Invalid Website URL."
+msgstr "Невалиден Website URL."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:666
+msgid "Failed to add comment."
+msgstr "Неуспех да добавите коментар."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:44
+msgid "You are not allowed to edit posts."
+msgstr "Вие нямате право да променяте мнения."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:108
+msgid "You are not allowed to post."
+msgstr "Вие нямате право да публикувате."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:245
+msgid "Failed to save new post."
+msgstr "Грешка при запазване на нов пост."
+

@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: P2 Reloaded\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-16 06:53+0800\n"
+"PO-Revision-Date: 2011-07-16 06:53+0800\n"
+"Last-Translator: mok <imoz39@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/.\n"
+"X-Poedit-SearchPath-0: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/.\n"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:24
+msgid "Top Navigation Menu"
+msgstr "トップナビゲーションメニュー"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:31
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:32
+msgid "The Right Sidebar"
+msgstr "右サイドバー"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./functions.php:123
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:128
+msgid "Settings"
+msgstr "設定"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:130
+msgid "Settings saved"
+msgstr "設定が保存さ"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:134
+msgid "General Settings"
+msgstr "一般設定"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:138
+msgid "Display post titles"
+msgstr "記事のタイトルを表示"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:143
+msgid "Allow logged in users to attach files to their posts"
+msgstr "自分の投稿にファイルを添付するユーザーにログインを許可する"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:148
+msgid "Allow users to add tags to their posts"
+msgstr "ユーザーが自分の記事にタグを追加することができます"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:153
+msgid "Notify users of new comments and whenever they are tagged in a post"
+msgstr "新しいコメントをユーザに通知し、いつでも彼らは、ポストにタグ付けされています"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:158
+msgid "Allow anonymous users to post &ndash; Creates a draft post and then notifies administrators"
+msgstr "匿名ユーザーが投稿することができます &ndash; ドラフト記事を作成し、管理者に通知"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:161
+msgid "Appearance"
+msgstr "外観"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:164
+msgid "Color Scheme:"
+msgstr "カラースキーム："
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:166
+msgid "Blue"
+msgstr "青"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:167
+msgid "Gray"
+msgstr "グレー"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:168
+msgid "Green"
+msgstr "緑"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:169
+msgid "Pink"
+msgstr "ピンク"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:174
+msgid "Homepage:"
+msgstr "ホームページ："
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:176
+msgid "Normal"
+msgstr "通常"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:177
+msgid "Fullscreen To-Do List"
+msgstr "フルスクリーンTo - Doリスト"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:181
+msgid "ToDo's"
+msgstr "ToDo's"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:183
+msgid "Users allowed to add ToDo items:"
+msgstr "ToDoアイテムを追加できるユーザー："
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:190
+msgid "Users allowed to check/uncheck ToDo items:"
+msgstr "/チェックボックスをオフにToDoの項目をチェックするために許可されているユーザー："
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:197
+msgid "Email Settings"
+msgstr "電子メールの設定"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:199
+msgid "Email &quot;From&quot; Address:"
+msgstr "住所\"から\"電子メール："
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:202
+msgid "Email &quot;From&quot; Name:"
+msgstr "名前\"から\"電子メール："
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:205
+msgid "Private Blog"
+msgstr "プライベートブログ"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:207
+msgid "Make this blog private."
+msgstr "このブログをプライベートにします。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:209
+msgid "Display this message to users who are not logged in"
+msgstr "ログインしていないユーザーにこのメッセージを表示"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/admin-settings.php:212
+msgid "Save Changes"
+msgstr "変更の保存"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/attachments.php:74
+msgid "Failed to delete attachment."
+msgstr "添付ファイルの削除に失敗しました。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:92
+msgid "Reply"
+msgstr "返信"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:175
+msgid "Edit"
+msgstr "編集"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:254
+msgid "You are not allowed to edit comments."
+msgstr "あなたはコメントを編集することは許可されていません。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:428
+msgid "Failed to mark this item. Please try again."
+msgstr "この項目をマークするために失敗しました。もう一度やり直してください。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:457
+msgid "Enter your comment."
+msgstr "コメントを入力してください。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:471
+msgid "Invalid post ID."
+msgstr "不正なpost ID。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:523
+msgid "Fill up the required fields (name and email)."
+msgstr "必須フィールド（名前とメールアドレスを）いっぱいに。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:533
+msgid "Invalid email address."
+msgstr "無効なメールアドレス。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:545
+msgid "Invalid Website URL."
+msgstr "אתר אינטרנט כתובת אתר לא חוקית."
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/comments.php:666
+msgid "Failed to add comment."
+msgstr "コメントを追加できませんでした。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:44
+msgid "You are not allowed to edit posts."
+msgstr "あなたは、ポストを編集することは許可されていません。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:108
+msgid "You are not allowed to post."
+msgstr "どこかに送信することは許可されていません。"
+
+#: /Users/mok/Sites/wordpress/wp-content/themes/p2-reloaded/./includes/posts.php:245
+msgid "Failed to save new post."
+msgstr "新しい投稿を保存に失敗しました。"
+

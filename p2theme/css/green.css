@@ -1,0 +1,33 @@
+/* Typography */
+a {
+	color: #77961a;
+}
+
+a:hover {
+	color: #0d2188;
+}
+
+/* Layout */
+body {
+	background-image: url(../images/greenbg.gif);
+}
+
+/* Header */
+header h2 {
+	color: #514b47;
+}
+
+#pages-nav a {
+	background: #343f22;
+	border-color: #343f22;
+}
+
+/* Posts */
+#posting-form-container {
+	background: #c9c8aa;
+	border-bottom: 1px solid #b2b197;
+}
+
+#posts article .post-actions a:hover {
+	color: #77961a;
+}
